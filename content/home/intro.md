@@ -13,6 +13,6 @@ subtitle: 'The Caribbean In Numbers'
 
 design:
   background:
-    color: '#fff'
+    color: '090a0b'
     text_color_light: true
 ---
