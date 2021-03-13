@@ -39,7 +39,7 @@ bio: My research interests include numbers and letters
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'about/#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'about/#contact'  # For a direct email link, use "sunrumdata@gmail.com".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/sunrumdata
