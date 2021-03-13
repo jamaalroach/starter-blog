@@ -10,16 +10,15 @@ role: Captain
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Bashment Ship
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+bio: My research interests include numbers and letters
 #interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+#- Caribbean 
+#- West Indies 
+#- Numbers
 
 #education:
 #  courses:
