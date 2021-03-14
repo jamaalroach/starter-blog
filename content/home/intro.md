@@ -1,5 +1,5 @@
 ---
- Use the Intro widget of the Blog template
+# Use the Intro widget of the Blog template
 widget: starter.blog.intro
 
 # This file represents a page section.
